@@ -35,7 +35,6 @@ I used Bootstrap validation styling with `was-validated`, `valid-feedback` and `
 ### Task 4. Registration Form
 I made a registration form with First Name, Last Name, Email, Password, Confirm Password, Gender, Hobbies and Country. I added Submit and Reset buttons. Bootstrap columns change the layout for smaller screens. Each password field requires at least 8 characters. Comparing the two passwords would need JavaScript or server-side validation, so it is not included.
 
-![Task 4, registration form](screenshots/task4.png)
 
 ![Task 4, invalid form](screenshots/task4-invalid.png)
 
@@ -54,5 +53,3 @@ I checked the forms with empty and correct values. I also tested incorrect email
 - `style.css` contains the page styles and mobile adjustments.
 - `screenshots/` contains screenshots for each task.
 
-## How to Run
-Open `index.html` in a browser with an internet connection, since Bootstrap is loaded from a CDN.
